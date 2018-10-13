@@ -1,2 +1,2 @@
 # maxima_diversidade_exato
-Pesquisa - Tati e Rafael
+Pesquisa - Tati e Fred
